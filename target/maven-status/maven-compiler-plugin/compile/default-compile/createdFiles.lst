@@ -1,0 +1,7 @@
+com\mycompany\ch12_ex2_useradmin\resources\JavaEE8Resource.class
+data\UserDB.class
+data\ConnectionPool.class
+data\DBUtil.class
+business\User.class
+com\mycompany\ch12_ex2_useradmin\JAXRSConfiguration.class
+admin\UsersServlet.class
